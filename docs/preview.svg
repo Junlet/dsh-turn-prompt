@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" fill="none">
+  <!-- Composer card at the bottom of the conversation column. -->
+  <rect x="112" y="196" width="416" height="68" rx="16" stroke="#8a97a8" stroke-width="1.5"/>
+  <path d="M140 222h168M140 238h108" stroke="#8a97a8" stroke-width="3" stroke-linecap="round" opacity="0.55"/>
+  <!-- The selected preset control inside the composer tool row. -->
+  <rect x="132" y="246" width="104" height="12" rx="6" fill="#4d6bfe"/>
+  <path d="M148 252.5l2 2 4-4.5" stroke="#ffffff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="158" y="250" width="62" height="4" rx="2" fill="#ffffff" opacity="0.9"/>
+
+  <!-- The open panel above it: default row plus saved sets, one highlighted. -->
+  <rect x="112" y="60" width="416" height="120" rx="14" stroke="#8a97a8" stroke-width="1.5"/>
+  <rect x="124" y="72" width="176" height="24" rx="8" fill="#8a97a8" opacity="0.14"/>
+  <rect x="136" y="82" width="96" height="4" rx="2" fill="#8a97a8" opacity="0.7"/>
+  <rect x="124" y="102" width="392" height="24" rx="8" fill="#4d6bfe" opacity="0.16"/>
+  <rect x="136" y="112" width="132" height="4" rx="2" fill="#4d6bfe"/>
+  <path d="M496 112l2.4 2.4 4.4-4.9" stroke="#4d6bfe" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="124" y="132" width="392" height="20" rx="8" fill="#8a97a8" opacity="0.09"/>
+  <rect x="136" y="140" width="110" height="4" rx="2" fill="#8a97a8" opacity="0.7"/>
+  <rect x="124" y="156" width="392" height="20" rx="8" fill="#8a97a8" opacity="0.09"/>
+  <rect x="136" y="164" width="146" height="4" rx="2" fill="#8a97a8" opacity="0.7"/>
+
+  <!-- The arm flows from the panel into the next turn. -->
+  <path d="M468 176v8" stroke="#4d6bfe" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="3 3"/>
+  <path d="M463.6 183.4L468 188l4.4-4.6" stroke="#4d6bfe" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M320 46v-6" stroke="#8a97a8" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/>
+  <circle cx="320" cy="34" r="4" stroke="#8a97a8" stroke-width="1.5" opacity="0.5"/>
+</svg>

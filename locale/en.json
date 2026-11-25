@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Turn prompt",
+    "description": "Pick one prompt preset beside the message input. While it is selected its text joins the system prompt of the next turn, and the selection returns to the default of no extra prompt when that turn ends. Open the control to choose a set, or use Manage inside it to add, edit, delete, and restore the shipped sets; saved sets stay in this browser. Prompts travel as a system-prompt section for the turns you send, so the transcript keeps exactly the words you typed, and a new selection takes effect on the next turn's first request. Turning the plugin off removes both the control and the prompt text.",
+    "detail": "docs/DETAIL.md"
+  }
+}

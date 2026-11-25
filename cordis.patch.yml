@@ -1,0 +1,6 @@
+# dsh-turn-prompt bundle layer.
+# Installing the bundle with its declared dsh.bundle.patch adds this row; the
+# Host half then mounts, and the Client half draws the composer control.
+- insert:
+    - id: turn-prompt
+      name: 'dsh-turn-prompt'
